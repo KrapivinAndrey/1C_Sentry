@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.6">
+	<ConfigVersions>
+		<Metadata name="Catalog.ПроектыSentry" id="4d15acca-2a94-4975-9bfb-969868a44890" configVersion="bffa286df32fa748a284249c11f6284b00000000">
+			<Metadata name="Catalog.ПроектыSentry.Attribute.ClientKey" id="f0b36bc2-32af-4640-867a-d03ae6dc8cf1"/>
+		</Metadata>
+		<Metadata name="Catalog.ПроектыSentry.Form.ФормаЭлемента" id="fe08016b-7cd2-44a4-a6c4-1586d666c2a0" configVersion="e99608819c23f443944f91fe7e3c0fee00000000"/>
+		<Metadata name="Catalog.ПроектыSentry.Form.ФормаЭлемента.Form" id="fe08016b-7cd2-44a4-a6c4-1586d666c2a0.0" configVersion="cccfabb039468844af4202ab2de93b8f00000000"/>
+		<Metadata name="CommonModule.ГлобальныйМодульSentry" id="9ce24cf2-9737-4a8e-ad8e-792970f9045b" configVersion="2ba57e366e927e4bac073e8b4c6e9bb300000000"/>
+		<Metadata name="CommonModule.ГлобальныйМодульSentry.Module" id="9ce24cf2-9737-4a8e-ad8e-792970f9045b.0" configVersion="962d49112fb0094b9bff866fb30b95b800000000"/>
+		<Metadata name="Configuration.ИнтеграцияСSentry" id="6793e83f-a5f4-4fdb-a6fd-05150703b79f" configVersion="1ceb219f8bf9274ea8a0d501487ea9d600000000"/>
+		<Metadata name="DataProcessor.ИсключениеSentry" id="41ccd118-2175-4090-af85-1b34b2b2959c" configVersion="74c2316ed32a22498ca97c658f2797c200000000">
+			<Metadata name="DataProcessor.ИсключениеSentry.Attribute.Тело" id="21108aa2-d901-4677-a993-eb58adb0c5a6"/>
+		</Metadata>
+		<Metadata name="DataProcessor.ИсключениеSentry.ObjectModule" id="41ccd118-2175-4090-af85-1b34b2b2959c.0" configVersion="592de686e27dbc47b98cf4734f546b5200000000"/>
+		<Metadata name="DataProcessor.КонтекстSentry" id="4ce1bf94-8de2-417d-835d-a609bcbfaa7e" configVersion="1dfcd8d50998d940a8e7f1e7dbd13aed00000000">
+			<Metadata name="DataProcessor.КонтекстSentry.Attribute.Тело" id="20a7329f-6d57-4ddf-9581-7988ae1e40ed"/>
+		</Metadata>
+		<Metadata name="DataProcessor.КонтекстSentry.ObjectModule" id="4ce1bf94-8de2-417d-835d-a609bcbfaa7e.0" configVersion="02fea8f43ebb8649859feea7a3a2db4900000000"/>
+		<Metadata name="DataProcessor.ПользовательSentry" id="9a89b071-0b32-485d-8c94-d25d1c269fc7" configVersion="f46bf97b7f7c88468a91f48cd39c641b00000000">
+			<Metadata name="DataProcessor.ПользовательSentry.Attribute.Тело" id="1af85ba0-6576-4c31-931d-efb08ec1fac1"/>
+		</Metadata>
+		<Metadata name="DataProcessor.ПользовательSentry.ObjectModule" id="9a89b071-0b32-485d-8c94-d25d1c269fc7.0" configVersion="49d6a45006f3d347aa3f06c2f698b98100000000"/>
+		<Metadata name="DataProcessor.СообщениеSentry" id="46b37d10-e1f9-48cf-bb51-4c9b13ad8c5b" configVersion="20f9e96b71ce1141af1e0188f60964d700000000">
+			<Metadata name="DataProcessor.СообщениеSentry.Attribute.Проект" id="2f881169-2e98-4e83-a677-1abbdc01e105"/>
+			<Metadata name="DataProcessor.СообщениеSentry.Attribute.Тело" id="cf57c814-b8c3-4bf7-8c79-99c7466b0ff8"/>
+		</Metadata>
+		<Metadata name="DataProcessor.СообщениеSentry.ObjectModule" id="46b37d10-e1f9-48cf-bb51-4c9b13ad8c5b.0" configVersion="c1b18ec1fd7d5c48acf2f9a51e3e87a500000000"/>
+		<Metadata name="DataProcessor.ЭлементТрассировкиСтекаSentry" id="36e28758-f8f5-41e1-9fcb-aca54ef2e113" configVersion="ae39200e0d38c94ea442060d77c66b3300000000">
+			<Metadata name="DataProcessor.ЭлементТрассировкиСтекаSentry.Attribute.Тело" id="3fd93483-c67d-45e9-9510-6c80c0b7f935"/>
+		</Metadata>
+		<Metadata name="DataProcessor.ЭлементТрассировкиСтекаSentry.ManagerModule" id="36e28758-f8f5-41e1-9fcb-aca54ef2e113.2" configVersion="6e7c76d7ba24b44fa9da8e4835d2cdcd00000000"/>
+		<Metadata name="DataProcessor.ЭлементТрассировкиСтекаSentry.ObjectModule" id="36e28758-f8f5-41e1-9fcb-aca54ef2e113.0" configVersion="d25ea7cd8d63b94ab202dd52ffc56bd700000000"/>
+		<Metadata name="DataProcessor.ЭлементЦепочкиСобытийSentry" id="8f27fea0-741a-43c8-b9d9-eb2061ebeb4e" configVersion="b4c45a04a3967343b4694bf0f23faa2e00000000">
+			<Metadata name="DataProcessor.ЭлементЦепочкиСобытийSentry.Attribute.Тело" id="0bfcff99-14c9-4311-9b16-4079d9ea5125"/>
+		</Metadata>
+		<Metadata name="DataProcessor.ЭлементЦепочкиСобытийSentry.ObjectModule" id="8f27fea0-741a-43c8-b9d9-eb2061ebeb4e.0" configVersion="36074014b950324b99e5a64913aefd3b00000000"/>
+		<Metadata name="Language.Русский" id="03b14856-fb89-4c51-b57e-3e54dd7ce5c6" configVersion="ade4fb062355044bab9b34d4888e86f400000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
